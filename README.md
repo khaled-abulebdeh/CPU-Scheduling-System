@@ -1,1 +1,1 @@
-# CPU-Scheduling-System
+# CPU Scheduling System
